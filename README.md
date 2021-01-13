@@ -1,6 +1,6 @@
 # WC rename Pending cancellation
 
-This is a simple plugin to rename the WooCommerce Subscription status of "Pending cancellation".
+This is a simple WordPress plugin to rename the WooCommerce Subscription status of "Pending cancellation".
 
 ## Instructions
 
